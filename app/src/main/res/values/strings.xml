@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Albums</string>
+    <string name="album_thumbnail_content_description">Image showing the album cover</string>
+    <string name="albums_list_title">Top Music Albums</string>
+    <string name="empty_albums_view">There was an error. No Albums Found</string>
+    <string name="try_again_btn">Try Again</string>
+    <string name="empty_album_title">Album Not Found</string>
+    <string name="empty_album_details_view">The album details cannot be found at this moment</string>
+    <string name="genre_year">%s - %d</string>
+    <string name="go_to_itunes_btn">Go To iTunes</string>
+    <string name="go_to_itunes_invalid_url_title">iTunes page not available</string>
+    <string name="go_to_itunes_invalid_url_description">The iTunes page is not available for this album</string>
+    <string name="go_to_itunes_invalid_url_dismiss_btn">Dismiss</string>
+    <string name="album_webview_title">iTunes</string>
+    <string name="album_webview_error_message">The iTunes page cannot be loaded at this moment</string>
+</resources>
